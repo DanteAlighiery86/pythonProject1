@@ -1,0 +1,67 @@
+
+
+[
+  {
+    "id": 1,
+    "name": "Adela Hendricks",
+    "picture": "https://cdn.igromania.ru/mnt/articles/c/7/4/8/d/0/31545/html/more/69_6fba8dcac65301734565f_848xH.jpg",
+    "position": "Go разработчик",
+    "gender": "female",
+    "age": 40,
+    "skills": "go, python"
+  },
+  {
+    "id": 2,
+    "name": "Sheri Torres",
+    "picture": "https://www.meme-arsenal.com/memes/5a7fa2a78772482b35fc1612b92ea990.jpg" ,
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "id": 3,
+    "name": "Burt Stein",
+    "picture":"https://cdn.southpark.su/uploads/2020/05/timmi-barch-v-seriale-southpark-su.jpg" ,
+    "position": "Team lead",
+    "gender": "male",
+    "age": 33,
+    "skills": "делегирование, пользоваться календарем, обсуждать важные вопросы"
+  },
+  {
+    "id": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://memepedia.ru/wp-content/uploads/2018/01/%D0%B3%D0%B0%D1%80%D0%BE%D0%BB%D1%8C%D0%B4-%D0%B2-%D0%BA%D0%BB%D0%B8%D0%BF%D0%B51.png",
+    "position": "CTO",
+    "gender": "male",
+    "age": 37,
+    "skills": "very important face"
+  },
+  {
+    "id": 5,
+    "name": "Day Holloway",
+    "picture": "https://cdn.forbes.ru/forbes-static/1224x734/new/2022/06/Keanu-Reeves-62ac2d8bc9b40.webp",
+    "position": "HR manager",
+    "gender": "male",
+    "age": 35,
+    "skills": "LinkedIn, telegram, spam, spam, spam"
+  },
+  {
+    "id": 6,
+    "name": "Adela Cochran",
+    "picture": "https://cdn.igromania.ru/mnt/articles/c/7/4/8/d/0/31545/html/more/27_921f0e93aa142047896ac_1920xH.jpg",
+    "position": "python-develop",
+    "gender": "male",
+    "age": 26,
+    "skills": "python, html"
+  },
+  {
+    "id": 7,
+    "name": "Sheree Love",
+    "picture": "https://www.meme-arsenal.com/memes/4ff6154097ebe8639ee7c0c8fbde74b3.jpg",
+    "position": "Django developer",
+    "gender": "female",
+    "age": 33,
+    "skills": "Python, Django, flask"
+  }
+]
